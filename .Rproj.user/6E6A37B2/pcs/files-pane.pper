@@ -1,0 +1,9 @@
+{
+    "path" : "~/Staging/Sample/www",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

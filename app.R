@@ -6,7 +6,7 @@ ui <- fluidPage(
            align = "center",
            br(),
            h2("WHO WON THE 2019 NCAA MEN'S BASKETBALL NATIONAL CHAMPIONSHIP?"),
-           h5("*click image"),
+           h5("*hover/click image"),
            br())
   ),
   fluidRow(
